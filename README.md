@@ -2,7 +2,7 @@
 
 
 Sample source code
-<code>
+`
 void loop(){
   WiFiClient client = server.available();   // Listen for incoming clients
 
@@ -11,6 +11,6 @@ void loop(){
     String currentLine = "";                // make a String to hold incoming data from the client
     currentTime = millis();
     previousTime = currentTime;
-</code>
+`
 
 Here is a link to markdown for the readme file [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
