@@ -7,8 +7,8 @@
 #include <ESP8266WiFi.h>
 
 // Replace with your network credentials
-const char* ssid     = "Cybertron";
-const char* password = "HMV24NMV4KA!";
+const char* ssid     = "YOUR WIFI NAME";
+const char* password = "YOUR WIFI PASSWORD";
 
 // Set web server port number to 80
 WiFiServer server(80);
