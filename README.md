@@ -19,4 +19,4 @@ Project purpose
 ---
 
 To simulate a phone leaving the zone of a lockbox.
-This is accomplished but using an Arduino board with WIFI capability to host a server that allows the user to remotely turn on and off a lock.  
+This is accomplished by using an Arduino board with WIFI capability to host a server that allows the user to remotely turn on and off a lock.  
