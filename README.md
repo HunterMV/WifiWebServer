@@ -14,3 +14,9 @@ Sample source code
 
 
 Here is a link to markdown for the readme file [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+
+Project purpose 
+---
+
+To simulate a phone leaving the zone of a lockbox.
+This is accomplished but using an Arduino board with WIFI capability to host a server that allows the use to remotely turn on and off a lock.  
